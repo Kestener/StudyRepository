@@ -1,4 +1,5 @@
-package textcollage;
+package guidemo;
+
 
 import java.awt.Component;
 import java.io.File;
